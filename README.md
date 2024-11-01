@@ -1,29 +1,29 @@
 # BUDGETLOFT-FINANCIAL_YOUTH_LITERACY_APP
 # Table of Contents
-1)Introduction
-2)Project Structure and Setup
-3)Feature Documentation
-4)User Interface (UI) and Design
-5)Technical Specifications
-6)Data Handling and Privacy
-7)Testing and Quality Assurance
-8)Deployment and Release Management
-9)User Guide
-10)Future Enhancements and Roadmap
-11)Contributing Guide
+1)Introduction<br>
+2)Project Structure and Setup<br>
+3)Feature Documentation<br>
+4)User Interface (UI) and Design<br>
+5)Technical Specifications<br>
+6)Data Handling and Privacy<br>
+7)Testing and Quality Assurance<br>
+8)Deployment and Release Management<br>
+9)User Guide<br>
+10)Future Enhancements and Roadmap<br>
+11)Contributing Guide<br>
 
-# 1) Introduction
-#Project Overview
-Budget Loft is an educational app designed to teach financial literacy to youth through engaging, interactive methods. Its goal is to equip young learners with essential money management skills in a fun and approachable way.
+# 1) Introduction<br>
+#Project Overview<br>
+Budget Loft is an educational app designed to teach financial literacy to youth through engaging, interactive methods. Its goal is to equip young learners with essential money management skills in a fun and approachable way.<br>
 
-# Core Features
-1)Quizzes: Engaging quizzes to test and improve financial knowledge.
-2)Real-Life Scenarios: Simulated financial situations to help users make informed decisions.
-3)Expense Tracker: A tool for tracking personal expenses and managing budgets.
-4)Smart Saver Tools: Features to help users set and track savings goals.
-5)Financial Tips: Practical tips to encourage healthy financial habits.
-6)Streak System: A gamified system rewarding consistent app usage.
-7)Crypto 101: An introductory module on cryptocurrency basics.
+# Core Features<br>
+1)Quizzes: Engaging quizzes to test and improve financial knowledge.<br>
+2)Real-Life Scenarios: Simulated financial situations to help users make informed decisions.<br>
+3)Expense Tracker: A tool for tracking personal expenses and managing budgets.<br>
+4)Smart Saver Tools: Features to help users set and track savings goals.<br>
+5)Financial Tips: Practical tips to encourage healthy financial habits.<br>
+6)Streak System: A gamified system rewarding consistent app usage.<br>
+7)Crypto 101: An introductory module on cryptocurrency basics.<br>
 # Target Audience
 Young users who want to develop their financial literacy and adopt responsible financial habits.
 
